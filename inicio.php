@@ -1,7 +1,7 @@
 <?php 
     $title ="Dashboard - "; 
     include "head.php";
-    include "sidebar.php";
+    
 
 ;
 ?>
@@ -43,4 +43,4 @@
         </div>
     </div>
 
-<?php include "footer.php" ?>
+<?php 
